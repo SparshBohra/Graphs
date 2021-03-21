@@ -8,3 +8,5 @@ It is represented as an Adjacency Matrix. The roads (edges) are assumed to be bi
 The program written will determine the shortest route between destinations and their total distance. 
 
 The implementation is done in C++ and Java.
+
+**TO DO: Read the data directly from the excel file**
