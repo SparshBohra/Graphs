@@ -1,7 +1,5 @@
 /*
-    Assigment 3 - Question 3
     Name: Sparsh Bohra
-    UOW ID: 6747358
 
     *This is my own work and have not shared it with anyone*
 */
