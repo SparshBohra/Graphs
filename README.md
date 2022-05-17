@@ -7,6 +7,6 @@ The map displays information about the distance between different parts of the c
 It is represented as an Adjacency Matrix. The roads (edges) are assumed to be bi-directional. 
 The program written will determine the shortest route between destinations and their total distance. 
 
-The implementation is done in C++ and Java.
+The implementation is done in C++ and Java
 
 **TO DO: Read the data directly from the excel file**
